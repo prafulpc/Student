@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="search">search</string>
+    <string name="filter">filter</string>
+    <string name="click_to_add_image">Click to Add Image</string>
+    <string name="name">Name:</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="email">Email:</string>
+    <string name="enter_your_email_id">Enter Your Email Id</string>
+    <string name="mobile">Mobile #:</string>
+    <string name="enter_your_mobile_number">Enter Your Mobile Number</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="address">Address :</string>
+    <string name="save">Save</string>
+    <string name="image">image</string>
+    <string name="praful">Praful</string>
+    <string name="bangalore">Bangalore</string>
+    <string name="prafulpc045_gmail_com">prafulpc045@gmail.com</string>
+    <string name="_9916929606">9916929606</string>
+    <string name="splashimage">image</string>
+</resources>
